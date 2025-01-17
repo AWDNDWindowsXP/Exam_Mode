@@ -7,6 +7,6 @@ name: 考试模式
 description: 与DSZ考试看板联动
 entranceAssembly: "ExamMode.dll"
 url: https://example.com
-version: 1.0.0.0
+version: 0.0.0.1
 apiVersion: 1.5.0
 author: 爱玩电脑的WindowsXP
